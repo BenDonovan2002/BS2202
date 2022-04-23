@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T14:02:51.288Z" agent="5.0 (Macintosh)" etag="WYwGbsWI0IkxzZsN6nOC" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T14:06:26.933Z" agent="5.0 (Macintosh)" etag="wJLseq3-r4AAoa5Cpw1S" version="17.4.1" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="653" dy="392" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="580" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,10 @@
           <mxGeometry x="4500" y="445" width="410" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FlYmEcX3xA0xqXH-Z2iS-38" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Util&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ UUID: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ isAdmin: boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ switchFrame( newWindow: AppWindow )&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6090" y="375" width="325" height="315" as="geometry" />
+          <mxGeometry x="6050" y="302.5" width="235" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="FlYmEcX3xA0xqXH-Z2iS-39" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;App&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ window: AppWindow&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ main( args: String[] )&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ switchFrame( newWindow: AppWindow ): Type&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6410" y="380" width="620" height="415" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
