@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T12:32:49.613Z" agent="5.0 (Macintosh)" etag="3d6d4efyZpEDLlflRhyd" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T12:34:42.460Z" agent="5.0 (Macintosh)" etag="NqF4CvRXYcjydNY95fhy" version="17.4.6" type="github">
   <diagram id="Xy6kyhiiOH7_zlWkAZDx" name="Page-1">
     <mxGraphModel dx="1426" dy="10820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -126,14 +126,14 @@
         <mxCell id="B0uqk96QT_npZUGROPf3-38" value="Tr" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1290" y="130" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B0uqk96QT_npZUGROPf3-40" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="320" width="140" height="40" as="geometry" />
+        <mxCell id="B0uqk96QT_npZUGROPf3-40" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="385" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B0uqk96QT_npZUGROPf3-41" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="370" width="140" height="40" as="geometry" />
+        <mxCell id="B0uqk96QT_npZUGROPf3-41" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="385" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B0uqk96QT_npZUGROPf3-42" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="420" width="140" height="40" as="geometry" />
+        <mxCell id="B0uqk96QT_npZUGROPf3-42" value="Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="385" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B0uqk96QT_npZUGROPf3-43" value="Data Centre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="70" height="30" as="geometry" />
@@ -161,6 +161,15 @@
         </mxCell>
         <mxCell id="B0uqk96QT_npZUGROPf3-50" value="SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1240" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B0uqk96QT_npZUGROPf3-57" value="SP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="900" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B0uqk96QT_npZUGROPf3-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B0uqk96QT_npZUGROPf3-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="280" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
